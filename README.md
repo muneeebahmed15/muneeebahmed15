@@ -1,10 +1,10 @@
-# Hi there :wave:, My name is Muhammad Asim
+# Hi there :wave:, My name is Muneeb Ahmed
 <img width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="my banner">
-I'm a React & React Native Full Stack Developer.:male-technologist:
+I'm a Full Stack Developer.:male-technologist:
 ## :dizzy: Liitle Bit More About Me
-<p>:seedling: I'm currently learning Solidity</p>
+<p>:seedling: I'm currently learning Next.Js</p>
 <p>:speech_balloon: Ask me about Anything</p>
-<p>:mailbox: How to reach me? asimm1048@gmail.com</p>
+<p>:mailbox: How to reach me? muneebahme999@gmail.com</p>
 <p>:zap: Fun Fact: I love to watch historical series</p>
 ## :computer: Skills
 <p>
@@ -25,11 +25,11 @@ I'm a React & React Native Full Stack Developer.:male-technologist:
 </p>
 ## :busts_in_silhouette: Connect With Me
 <p>
-<a href="https://linkedin.com/in/asim1048"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/asim_1048"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://linkedin.com/in/muneeebahmed15"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/muneeebahmed15"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 ## :bar_chart: Github Status
-<p><img src="https://github-readme-stats.vercel.app/api?username=asim1048&show_icons=true"><p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim1048&layout=compact"><p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=asim1048"><p>
-<p><img src="https://visitcount.itsvg.in/api?id=asim1048&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=muneeebahmed15&show_icons=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeebahmed15&layout=compact"><p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeebahmed15"><p>
+<p><img src="https://visitcount.itsvg.in/api?id=muneeebahmed15&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
